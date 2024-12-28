@@ -1,1 +1,4 @@
-hol
+.vs/
+*.sqlite
+*.sqlite-journal
+
